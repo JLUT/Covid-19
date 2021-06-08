@@ -18,4 +18,4 @@
 
 
 
-https://public.tableau.com/profile/jomol#!/vizhome/WorldandIndiacovidcasesataglance/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/jomol/viz/WorldandIndiacovidcasesataglance/Dashboard1
